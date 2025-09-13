@@ -1,5 +1,7 @@
 import { sponsors } from '@/lib/data';
 import SponsorCard from './sponsor-card';
+import { Button } from './ui/button';
+import Link from 'next/link';
 
 export default function SponsorsSection() {
   return (
@@ -17,6 +19,15 @@ export default function SponsorsSection() {
           {sponsors.map((sponsor) => (
             <SponsorCard key={sponsor.name} sponsor={sponsor} />
           ))}
+        </div>
+        <div className="mt-16 text-center bg-background p-8 rounded-lg shadow-inner">
+          <h3 className="font-headline text-2xl font-bold text-primary">Devenez notre nouveau partenaire!</h3>
+          <p className="mt-4 text-lg text-muted-foreground max-w-3xl mx-auto">
+            Nous recherchons un nouveau sponsor pour nous aider à fournir de nouveaux équipements et vêtements à nos jeunes athlètes. Rejoignez-nous dans notre mission de soutien à la prochaine génération de champions de canoë!
+          </p>
+          <Button asChild size="lg" className="mt-6 bg-accent text-accent-foreground hover:bg-accent/90">
+            <Link href="#contact">Contactez-nous</Link>
+          </Button>
         </div>
       </div>
     </section>
