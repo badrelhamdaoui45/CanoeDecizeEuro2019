@@ -29,7 +29,7 @@ export const heroImage = PlaceHolderImages.find(img => img.id === 'hero-backgrou
 
 export const navLinks = [
   { href: '#about', label: 'About' },
-  { href: '#gallery', label: 'Gallery' },
+  { href: '/gallery', label: 'Gallery' },
   { href: '#sponsors', label: 'Sponsors' },
   { href: '#contact', label: 'Contact' },
 ];
