@@ -32,7 +32,7 @@ export default function ContactSection() {
                   <Mail className="h-6 w-6 text-accent mt-1 flex-shrink-0" />
                   <div>
                     <h4 className="font-bold">Email</h4>
-                    <a href="mailto:contact@example.com" className="text-muted-foreground hover:text-accent transition-colors">contact@example.com</a>
+                    <a href="mailto:contact@CanoeDecize.com" className="text-muted-foreground hover:text-accent transition-colors">contact@CanoeDecize.com</a>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
