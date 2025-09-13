@@ -3,7 +3,7 @@
     {
       "id": "hero-background",
       "description": "A scenic view of a river at sunset, perfect for canoeing.",
-      "imageUrl": "https://picsum.photos/seed/canoesun/1920/1080",
+      "imageUrl": "/CN15.png",
       "imageHint": "river sunset"
     },
     {
@@ -99,25 +99,25 @@
     {
       "id": "sponsor-logo-1",
       "description": "Sponsor logo for 'AquaFlow Gear'",
-      "imageUrl": "https://picsum.photos/seed/logo1/200/100",
+      "imageUrl": "https://placehold.co/200x100/png?text=AquaFlow",
       "imageHint": "logo"
     },
     {
       "id": "sponsor-logo-2",
       "description": "Sponsor logo for 'RiverRun Adventures'",
-      "imageUrl": "https://picsum.photos/seed/logo2/200/100",
+      "imageUrl": "https://placehold.co/200x100/png?text=RiverRun",
       "imageHint": "brand"
     },
     {
       "id": "sponsor-logo-3",
       "description": "Sponsor logo for 'Decize Local Council'",
-      "imageUrl": "https://picsum.photos/seed/logo3/200/100",
+      "imageUrl": "https://placehold.co/200x100/png?text=Decize",
       "imageHint": "emblem"
     },
     {
       "id": "sponsor-logo-4",
       "description": "Sponsor logo for 'Nature's Pantry'",
-      "imageUrl": "https://picsum.photos/seed/logo4/200/100",
+      "imageUrl": "https://placehold.co/200x100/png?text=Nature's+Pantry",
       "imageHint": "logo brand"
     }
   ]
