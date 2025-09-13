@@ -1,3 +1,70 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A scenic view of a river at sunset, perfect for canoeing.",
+      "imageUrl": "https://picsum.photos/seed/canoesun/1920/1080",
+      "imageHint": "river sunset"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Canoe race in action.",
+      "imageUrl": "https://picsum.photos/seed/race1/800/600",
+      "imageHint": "canoe race"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Kayaker paddling through calm waters.",
+      "imageUrl": "https://picsum.photos/seed/kayak2/800/600",
+      "imageHint": "kayak river"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Team of canoers paddling in sync.",
+      "imageUrl": "https://picsum.photos/seed/team3/800/600",
+      "imageHint": "canoe team"
+    },
+    {
+      "id": "gallery-4",
+      "description": "A single kayaker enjoying the serene landscape.",
+      "imageUrl": "https://picsum.photos/seed/serene4/800/600",
+      "imageHint": "kayak landscape"
+    },
+    {
+      "id": "gallery-5",
+      "description": "Finish line of a marathon canoe race.",
+      "imageUrl": "https://picsum.photos/seed/finish5/800/600",
+      "imageHint": "race finish"
+    },
+    {
+      "id": "gallery-6",
+      "description": "Spectators watching the canoe championship.",
+      "imageUrl": "https://picsum.photos/seed/crowd6/800/600",
+      "imageHint": "sports crowd"
+    },
+    {
+      "id": "sponsor-logo-1",
+      "description": "Sponsor logo for 'AquaFlow Gear'",
+      "imageUrl": "https://picsum.photos/seed/logo1/200/100",
+      "imageHint": "logo"
+    },
+    {
+      "id": "sponsor-logo-2",
+      "description": "Sponsor logo for 'RiverRun Adventures'",
+      "imageUrl": "https://picsum.photos/seed/logo2/200/100",
+      "imageHint": "brand"
+    },
+    {
+      "id": "sponsor-logo-3",
+      "description": "Sponsor logo for 'Decize Local Council'",
+      "imageUrl": "https://picsum.photos/seed/logo3/200/100",
+      "imageHint": "emblem"
+    },
+    {
+      "id": "sponsor-logo-4",
+      "description": "Sponsor logo for 'Nature's Pantry'",
+      "imageUrl": "https://picsum.photos/seed/logo4/200/100",
+      "imageHint": "logo brand"
+    }
+  ]
 }
