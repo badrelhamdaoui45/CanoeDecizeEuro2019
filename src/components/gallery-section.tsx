@@ -1,4 +1,5 @@
 import { galleryImages } from '@/lib/data';
+import Image from 'next/image';
 import {
   Carousel,
   CarouselContent,
@@ -6,7 +7,6 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from '@/components/ui/carousel';
-import ImageEnhancer from './image-enhancer';
 
 export default function GallerySection() {
   return (
@@ -31,10 +31,13 @@ export default function GallerySection() {
             {galleryImages.map((image) => (
               <CarouselItem key={image.id} className="md:basis-1/2 lg:basis-1/3">
                 <div className="p-1">
-                  <ImageEnhancer
-                    imageUrl={image.imageUrl}
+                  <Image
+                    src={image.imageUrl}
                     alt={image.description}
-                    imageHint={image.imageHint}
+                    width={800}
+                    height={600}
+                    className="aspect-[4/3] w-full rounded-lg object-cover"
+                    data-ai-hint={image.imageHint}
                   />
                 </div>
               </CarouselItem>

@@ -9,38 +9,92 @@
     {
       "id": "gallery-1",
       "description": "Canoe race in action.",
-      "imageUrl": "https://picsum.photos/seed/race1/800/600",
+      "imageUrl": "/CN1.png",
       "imageHint": "canoe race"
     },
     {
       "id": "gallery-2",
       "description": "Kayaker paddling through calm waters.",
-      "imageUrl": "https://picsum.photos/seed/kayak2/800/600",
+      "imageUrl": "/CN2.png",
       "imageHint": "kayak river"
     },
     {
       "id": "gallery-3",
       "description": "Team of canoers paddling in sync.",
-      "imageUrl": "https://picsum.photos/seed/team3/800/600",
+      "imageUrl": "/CN3.png",
       "imageHint": "canoe team"
     },
     {
       "id": "gallery-4",
       "description": "A single kayaker enjoying the serene landscape.",
-      "imageUrl": "https://picsum.photos/seed/serene4/800/600",
+      "imageUrl": "/CN4.png",
       "imageHint": "kayak landscape"
     },
     {
       "id": "gallery-5",
       "description": "Finish line of a marathon canoe race.",
-      "imageUrl": "https://picsum.photos/seed/finish5/800/600",
+      "imageUrl": "/CN5.png",
       "imageHint": "race finish"
     },
     {
       "id": "gallery-6",
       "description": "Spectators watching the canoe championship.",
-      "imageUrl": "https://picsum.photos/seed/crowd6/800/600",
+      "imageUrl": "/CN6.png",
       "imageHint": "sports crowd"
+    },
+    {
+      "id": "gallery-7",
+      "description": "Canoe action shot",
+      "imageUrl": "/CN7.png",
+      "imageHint": "canoe action"
+    },
+    {
+      "id": "gallery-8",
+      "description": "Canoe action shot",
+      "imageUrl": "/CN8.png",
+      "imageHint": "canoe action"
+    },
+    {
+      "id": "gallery-9",
+      "description": "Canoe action shot",
+      "imageUrl": "/CN9.png",
+      "imageHint": "canoe action"
+    },
+    {
+      "id": "gallery-10",
+      "description": "Canoe action shot",
+      "imageUrl": "/CN10.png",
+      "imageHint": "canoe action"
+    },
+    {
+      "id": "gallery-11",
+      "description": "Canoe action shot",
+      "imageUrl": "/CN11.png",
+      "imageHint": "canoe action"
+    },
+    {
+      "id": "gallery-12",
+      "description": "Canoe action shot",
+      "imageUrl": "/CN12.png",
+      "imageHint": "canoe action"
+    },
+    {
+      "id": "gallery-13",
+      "description": "Canoe action shot",
+      "imageUrl": "/CN13.png",
+      "imageHint": "canoe action"
+    },
+    {
+      "id": "gallery-14",
+      "description": "Canoe action shot",
+      "imageUrl": "/CN14.png",
+      "imageHint": "canoe action"
+    },
+    {
+      "id": "gallery-15",
+      "description": "Canoe action shot",
+      "imageUrl": "/CN15.png",
+      "imageHint": "canoe action"
     },
     {
       "id": "sponsor-logo-1",
